@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys
 import os
+import cffi
 from ui_testmake import * 
 from PyQt5 import QtWidgets
 from persistent import Persistent
